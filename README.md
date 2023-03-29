@@ -6,8 +6,7 @@ Antwerp Group 2 is a team composed of
 
 - Herbert Homolka
 - Nana Nhuien
-- Amanuel
-- Zemikael
+- Amanuel Zemikael
 - Mohammad Waris Sharafzay
 - Sachin Palaye.
 
